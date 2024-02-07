@@ -1,2 +1,5 @@
 # Contacts_App
-this is my Contacts app Project.
+This is a Contacts app Project.
+
+With Firebase integration database
+With Google Authenticaton and Login/Signup Feature
